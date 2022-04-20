@@ -11,3 +11,4 @@ Domino: Discovering Systematic Errors with Cross-Modal Embeddings | [[paper]](ht
 DataMUX: Data Multiplexing for Neural Networks | [[paper]](https://arxiv.org/abs/2202.09318) | 장지호
 Hierarchical Text-Conditional Image Generation with CLIP Latents | [[paper]](https://arxiv.org/abs/2204.06125) | 한동훈
 CLIP-Event: Connecting Text and Images with Event Structures | [[paper]](https://arxiv.org/abs/2201.05078) | 공채린
+LiT : Zero-Shot Transfer with Locked-image text Tuning | [[paper]](https://arxiv.org/abs/2111.07991) | 유기윤
