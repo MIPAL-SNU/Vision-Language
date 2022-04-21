@@ -4,7 +4,7 @@ Study Archiving
 ## Papers
 
 
-Title | Link | 발표자
+Title | Link | 발표자 &nbsp;
 -- | ----- | ----------
 NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion | [paper](https://arxiv.org/abs/2111.12417) | 공채린
 Detection of Word Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation | [paper](https://arxiv.org/abs/2203.01677) | 유기윤
