@@ -4,9 +4,9 @@ Study Archiving
 ## Papers
 
 
-Title | Link | 발표자 &nbsp;
+Title | Link | 발표자
 -- | ----- | ----------
-NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion | [paper](https://arxiv.org/abs/2111.12417) | 공채린
+NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion | [paper](https://arxiv.org/abs/2111.12417) | 공채린 &nbsp;
 Detection of Word Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation | [paper](https://arxiv.org/abs/2203.01677) | 유기윤
 Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | [paper](https://arxiv.org/abs/2005.11401) | 장지호
 CogView: Mastering Text-to-Image Generation via Transformers | [paper](https://arxiv.org/abs/2105.13290) | 한동훈
